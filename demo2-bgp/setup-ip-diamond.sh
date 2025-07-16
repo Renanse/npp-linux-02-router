@@ -61,7 +61,7 @@ $rtrA ip addr del 10.10.1.1/30 dev eth2
 $rtrA ip addr del 10.10.2.1/30 dev eth3
 
 $rtrB ip addr del 10.10.1.2/30 dev eth1
-$rtrB ip addr del 10.10.2.1/30 dev eth2
+$rtrB ip addr del 10.10.3.1/30 dev eth2
 
 $rtrC ip addr del 10.10.2.2/30 dev eth1
 $rtrC ip addr del 10.10.4.1/30 dev eth2
